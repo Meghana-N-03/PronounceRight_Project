@@ -5,10 +5,10 @@ This project aims to develop an advanced mispronunciation detection and correcti
 
 Developing an integrated mispronunciation detection and correction system to effectively process the user’s audio input, analyze pronunciation patterns, detect mispronunciations, and provide an informative feedback,for English Language.
 
-Speech Recognition
-Pronunciation Assessment
-Error Correction
-Feedback Generation
+Step 1: Speech Recognition 
+Step 2: Pronunciation Assessment
+Step 3: Error Correction
+Step 4: Feedback Generation
 
 ![image](https://github.com/user-attachments/assets/c6d5f091-34bd-4415-b477-d7855adc438d)
 
