@@ -10,6 +10,8 @@ Step 2: Pronunciation Assessment
 Step 3: Error Correction
 Step 4: Feedback Generation
 
-![image](https://github.com/user-attachments/assets/c6d5f091-34bd-4415-b477-d7855adc438d)
+
+
+![Screenshot 2024-11-20 094914](https://github.com/user-attachments/assets/61a6e5e5-f236-4970-ba7c-9282495fdb73)
 
 
